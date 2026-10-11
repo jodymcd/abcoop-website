@@ -100,9 +100,6 @@ tr:last-child td { border-bottom: 0; }
 .checks li { position: relative; padding-left: 28px; margin-bottom: 12px; }
 .checks li::before { content: ""; position: absolute; left: 4px; top: .55em; width: 10px; height: 10px; border-radius: 50% 0; background: var(--leaf); transform: rotate(45deg); }
 
-.callout { background: var(--surface); border: 1px solid var(--line); border-left: 4px solid var(--bloom); border-radius: var(--radius); padding: 24px; }
-.callout p:last-child { margin: 0; }
-
 .contact { text-align: center; }
 .contact p { color: var(--muted); }
 
